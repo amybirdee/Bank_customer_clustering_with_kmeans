@@ -1,4 +1,4 @@
-# bank_customer_clustering_with_kmeans
+# Bank_customer_clustering_with_kmeans
 Clustering bank credit card customers using KMeans
 
 - The data consist of details of credit card customers at a bank
